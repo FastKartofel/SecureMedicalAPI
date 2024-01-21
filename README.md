@@ -8,7 +8,7 @@ SecureMedicalApi is a cutting-edge ASP.NET Core Web API crafted for the secure m
 - **Doctors Management:** Full CRUD capabilities for managing doctor profiles.
 - **Prescriptions Endpoint:** Secure retrieval of detailed prescription data.
 - **Error Logging:** Comprehensive logging of errors to logs.txt for audit and debugging.
-- 
+  
 # Getting Started
 **Prerequisites**
 - .NET 6 SDK
